@@ -51,6 +51,8 @@ Neste projeto, utilizei minhas habilidades em programação Java e modelagem de 
 
 - **Versionamento no GitHub:** Hospedei o projeto no GitHub para demonstrar meu conhecimento em controle de versão, colaboração em equipe e compartilhamento de código.
 
+![Caso de Uso do projeto](GeradorDeSenhas/diagrams/caso_de_uso_senha.png)
+
 Fique à vontade para explorar o código-fonte e experimentar o gerador de senhas. Sinta-se à vontade para entrar em contato comigo para qualquer dúvida ou sugestão!
 
 ---
